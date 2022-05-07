@@ -1,0 +1,25 @@
+.card{
+    margin: 40px;
+    
+    display: flex;
+    height: 500px;
+ 
+    
+    
+    
+}
+.card-body{
+    
+    color: rgb(202, 14, 14);
+    overflow-x: scroll;
+    overflow-x: hidden;
+  
+    
+}
+.card-img-top{
+    height: 300px;
+}
+.btn{
+    margin-bottom: 20px;
+
+}

@@ -1,0 +1,22 @@
+.card {
+  margin: 40px;
+
+  display: flex;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  
+}
+.card:hover{
+    box-shadow: 10px 10px 11px rgba(33,33,33,.2); 
+
+}
+.card-body {
+  color: rgb(202, 14, 14);
+  height: 200px;
+}
+.card-img-top {
+  height: 300px;
+}
+.btn {
+  margin-bottom: 20px;
+}
